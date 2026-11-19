@@ -1,6 +1,6 @@
-# OLTRS — Software Engineering Lab Internal II (SET-8)
+# OLTRS 
 
-A practical, copy-paste guide for **Windows (exam machine)** and **macOS (home practice)**. Repository: **https://github.com/DevXOmar/OLTRS**.
+A practical guide for **Windows (exam machine)** and **macOS (home practice)**. Repository: **https://github.com/DevXOmar/OLTRS**.
 
 **Do the questions in this order:** **Q2 Jenkins → Q1 Docker Compose + Nagios → Q3 Minikube → Q4 AWS EC2**. Q2 creates the Docker Hub image reused in Q1 and Q3. This guide is for the KMIT SET-8 lab, not a production deployment.
 
